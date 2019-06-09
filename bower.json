@@ -1,0 +1,22 @@
+{
+  "name": "tarea",
+  "description": "Tarea de DAW",
+  "main": "index.html",
+  "authors": [
+    "Abraham Mtz"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "fontawesome": "^5.8.2"
+  }
+}
